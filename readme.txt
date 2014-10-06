@@ -1,20 +1,20 @@
 === Replace Google Fonts ===
 
 Contributors: soulteary
-Tags: Qihu Fonts, Qihu Web Fonts, 360 Fonts, 360 Web Fonts, Google Fonts, Google Web Fonts
+Tags: Google Fonts, Google Web Fonts, GFW mirror
 Requires at least: 3.5
-Tested up to: 3.8
+Tested up to: 4.0
 Stable tag: 1.0
 
-Use Qihoo 360 Open Fonts Service to replace Google's.
+Use alternative open fonts service mirror in mainland to replace Google's.
+
+TODO: add a option page in dashboard that allows user manually switch font source.
 
 == Description ==
 
-[Plugin homepage](http://www.soulteary.com/2014/06/08/) | [Plugin author](http://www.soulteary.com/) 
+[Plugin homepage](http://www.soulteary.com/2014/06/08/) | [Plugin author](http://www.soulteary.com/)
 
-There are some problem with Google in china, the Google Fonts make the website too slow to open, so we can use Qihoo 360's Web Fonts replace the Google's.
-
-[Project GitHub](https://github.com/soulteary/Replace-Google-Fonts).
+Forked from [soulteary/Replace-Google-fonts](https://github.com/soulteary/Replace-Google-Fonts), use USTC source for personal flavor.
 
 == Installation ==
 
