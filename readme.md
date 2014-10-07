@@ -33,4 +33,4 @@ Installation
 or
 --
 
-1. Upload the plugin(Replace-Google-Fonts.zip) through the 'Plugins' menu in WordPress
+1. Upload the plugin `Replace-Google-Fonts.zip` through the 'Plugins' menu in WordPress
