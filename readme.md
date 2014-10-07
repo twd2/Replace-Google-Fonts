@@ -24,7 +24,13 @@ Forked from [ChiChou/Replace-Google-Fontss](https://github.com/ChiChou/Replace-G
 
 Forked from [soulteary/Replace-Google-fonts](https://github.com/soulteary/Replace-Google-Fonts), use USTC source for personal flavor.
 
-== Installation ==
+Installation
+============
 
 1. Upload `replace-google-fonts` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Activate the plugin through the 'Plugins' menu in WordPress
+
+or
+--
+
+1. Upload the plugin(Replace-Google-Fonts.zip) through the 'Plugins' menu in WordPress

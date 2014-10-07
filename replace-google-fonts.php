@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Replace Google Fonts
  * Plugin URI:  http://www.soulteary.com/2014/06/08/replace-google-fonts.html
- * Description: Open font mirror replacement for Google Font
+ * Description: Open font mirror replacement for Google Fonts
  * Author:      soulteary
  * Author URI:  http://www.soulteary.com/
  * Version:     1.0
