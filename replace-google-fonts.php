@@ -36,7 +36,7 @@ class Replace_Google_Fonts
      */
     public function replace_font_source($text)
     {
-        return str_replace('//fonts.googleapis.com/', '//fonts.lug.ustc.edu.cn/', $text);
+        return str_replace('//fonts.googleapis.com/', '//twd2.net/fonts/', $text);
     }
 }
 
